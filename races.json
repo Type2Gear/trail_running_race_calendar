@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Leadville Trail 100 Run",
+      "start_dateTime": "2025-08-16T04:00:00-06:00",
+      "end_dateTime": "2025-08-17T10:00:00-06:00",
+      "timeZone": "America/Denver",
+      "livestream_link": "TBD",
+      "location": "Leadville, Colorado, USA",
+      "description": "An iconic 100-mile race through the high-altitude terrain of the Colorado Rockies. Known as the \"Race Across the Sky.\""
+    },
+    {
+      "name": "Hardrock Hundred Mile Endurance Run",
+      "start_dateTime": "2025-07-11T06:00:00-06:00",
+      "end_dateTime": "2025-07-13T06:00:00-06:00",
+      "timeZone": "America/Denver",
+      "livestream_link": "TBD",
+      "location": "Silverton, Colorado, USA",
+      "description": "A grueling 100.5-mile race with over 33,000 feet of elevation gain at an average elevation of over 11,000 feet in the rugged San Juan Mountains of Colorado. Known for its extreme difficulty, high altitudes, and the tradition of \"kissing the Hardrock\" (a painted ram's head) at the finish."
+    }
+  ]

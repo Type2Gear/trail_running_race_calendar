@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Western States",
+    "start_dateTime": "2025-06-28T06:00:00",
+    "end_dateTime": "2025-06-29T12:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The Western States ® 100-Mile Endurance Run is the worlds oldest 100 mile trail race. The Run starts in Olympic Valley, California, near the site of the 1960 Winter Olympics, and ends 100.2 miles later in Auburn, California. In the decades since its inception in 1974, Western States has come to represent one of the ultimate endurance tests in the world.",
+    "location": "Olympic Valley, CA"
+  },
+  {
+    "name": "The Broken Arrow Skyrace 23K",
+    "start_dateTime": "2025-06-22T10:00:00",
+    "end_dateTime": "2025-06-22T17:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The Broken Arrow 23K covers a world-class loop that showcases some of Palisades Tahoe's most famous terrain. From the valley floor at 6200 feet, runners will ascend nearly 5,000 feet as they circumnavigate the heralded terrain of North America's most rugged and extreme ski resort. The course is characterized by a plethora of vertical gain over a technical and physically demanding landscape that is mostly above treeline.",
+    "location": "Lake Tahoe, CA"
+  },
+  {
+    "name": "The Broken Arrow Skyrace 46K",
+    "start_dateTime": "2025-06-21T08:00:00",
+    "end_dateTime": "2025-06-21T20:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The Broken Arrow 46K covers a world-class loop (twice!) that showcases some of Palisade Tahoe's most famous terrain. From the valley floor at 6,200 feet, runners will ascend nearly 5,300 feet as they circumnavigate the heralded terrain of North America's most rugged and extreme ski resort. The course is characterized by a plethora of vertical gain over a technical and physically demanding landscape that is mostly above treeline.",
+    "location": "Lake Tahoe, CA"
+  },
+  {
+    "name": "The Broken Arrow Skyrace Ascent",
+    "start_dateTime": "2025-06-20T10:30:00",
+    "end_dateTime": "2025-06-20T13:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The Ascent covers some of Palisade Tahoes most iconic terrain in a short, steep, and physically demanding sprint. From the valley floor, runners will ascend over 3,000 feet in a mere 3 miles to the summit of 9,000-foot Washeshu Peak. In true Skyrunner fashion, the course begins on steep terrain, ascends technical off-trail talus, and finishes on an exposed ridge line.",
+    "location": "Lake Tahoe, CA"
+  },
+  {
+    "name": "Twisted Fork Trail Festival 30K",
+    "start_dateTime": "2025-06-14T08:00:00",
+    "end_dateTime": "2025-06-14T19:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The Twisted Fork Trail Festival features 3 races: 68K, 30K, and 15K race distances over some of our favorite trails in Park City, Utah. Each of these courses is hilly and challenging, but also fast and runnable, and will take you through beautiful wooded terrain, epic views, and a little slice of local history.",
+    "location": "Park City, UT"
+  },
+  {
+    "name": "Twisted Fork Trail Festival 68K",
+    "start_dateTime": "2025-06-14T06:00:00",
+    "end_dateTime": "2025-06-14T19:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The Twisted Fork Trail Festival features 3 races: 68K, 30K, and 15K race distances over some of our favorite trails in Park City, Utah. Each of these courses is hilly and challenging, but also fast and runnable, and will take you through beautiful wooded terrain, epic views, and a little slice of local history.",
+    "location": "Park City, UT"
+  },
+  {
+    "name": "Sunapee Scramble Classic Up/Down",
+    "start_dateTime": "2025-06-01T07:00:00",
+    "end_dateTime": "2025-06-01T11:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The Sunapee Scramble will serve as the 2025 USATF National Classic Mountain Championship. The race will serve as the sole selection race for the 2025 US Classic Up/Down Mountain Running Team - one of the four groups of athletes to represent the US in Spain at the World Mountain and Trail Running Championships.",
+    "location": "Sunapee, NH"
+  },
+  {
+    "name": "Zegama-Aizkorri",
+    "start_dateTime": "2025-05-25T01:00:00",
+    "end_dateTime": "2025-05-25T09:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "From the town of Zegama (296m) it is climbed up to the high of Otzaurte (652m ) and then, from the mountain pass mentioned before, a route along paths and mountain tracks of great natural beauty. It combines forests, principally beech, with steep rocky slopes and high grazing land. It is very technical and with a high level of difficulty.",
+    "location": "Zegama"
+  },
+  {
+    "name": "Il Golfo dell Isola Trail",
+    "start_dateTime": "2025-05-17T03:30:00",
+    "end_dateTime": "2025-05-17T10:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The track winds along a flower circuit with start, finish and 3 passes at the same point where a FAN ZONE will be set up where supporters and spectators can enjoy the show and follow the race live on a big screen. The race takes place on marked trails and tracks. The total development is 26 km with a total positive difference in height of 1,430 m.",
+    "location": "Noli"
+  },
+  {
+    "name": "Monte Zerbion Skyrace",
+    "start_dateTime": "2025-05-16T22:00:00",
+    "end_dateTime": "2025-05-17T05:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "It is the queen race, it has a positive and negative difference in altitude of 2,200 meters and it develops on panoramic paths that lead to Zerbion, at an altitude of 2,728 meters. Uphill and downhill test, with the arrival placed in the square of Châtillon.",
+    "location": "Aosta Valley"
+  },
+  {
+    "name": "Transvulcania Ultramarathon",
+    "start_dateTime": "2025-05-10T13:00:00",
+    "end_dateTime": "2025-05-12T13:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "Transvulcania is undoubtedly one of the toughest trail running races in the world, with a distance of 73.06 kilometres and 4,350 metres of cumulative positive altitude gain and 4,057 metres of cumulative negative altitude gain. From the starting line, located at sea level, the course climbs up to Roque de los Muchachos (2421 m.), the highest point of the island, then descends to Tazacorte and ends in Los Llanos de Aridane where the finish line is surrounded by an incredible atmosphere with lots of people.",
+    "location": "La Palma Island"
+  },
+  {
+    "name": "Cocodona 250",
+    "start_dateTime": "2025-05-05T06:00:00",
+    "end_dateTime": "2025-05-10T10:00:00",
+    "timeZone": "America/Denver",
+    "livestream_link": "TBD",
+    "description": "The original epic of the Cocodona name starts at Deep Canyon Ranch in Black Canyon City and traverses a continuous 250 mile point-to-point route, ending in Flagstaff, Arizona. Arguably the most diverse 200+miler on the map. Be prepared for a life changing epic adventure",
+    "location": "Black Canyon City, AZ"
+  }
+]
